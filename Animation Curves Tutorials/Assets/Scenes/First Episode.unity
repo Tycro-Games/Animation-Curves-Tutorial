@@ -784,7 +784,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  duration: 1
+  duration: 10
 --- !u!1 &4138705543641722388
 GameObject:
   m_ObjectHideFlags: 0
